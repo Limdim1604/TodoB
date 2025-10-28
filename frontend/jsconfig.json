@@ -1,0 +1,11 @@
+//thêm 1 đoạn cấu hình để cho phép sử dụng @ khi import
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "paths": {
+        "@/*": ["*"]
+        },
+        "jsx": "react-jsx"
+    },
+    "include": ["src"]
+}
