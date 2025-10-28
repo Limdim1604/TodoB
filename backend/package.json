@@ -15,6 +15,7 @@
     "cors": "^2.8.5",
     "dotenv": "^17.2.3",
     "express": "^4.18.2",
+    "mern2025": "file:..",
     "mongoose": "^8.19.2"
   },
   "devDependencies": {
